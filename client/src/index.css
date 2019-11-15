@@ -60,7 +60,18 @@ body {
   border: 1px solid grey;
   padding: 5px 10px;
   background-color: lightseagreen;
+  margin: 2%;
 }
+
+.update-button{
+  position: absolute;
+  top: 100px;
+  right: 35px;
+  border: 1px solid grey;
+  padding: 5px 10px;
+  background-color: lightseagreen;
+}
+
 .save-button:hover {
   background-color: green;
   color: white;
